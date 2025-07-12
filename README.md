@@ -23,7 +23,7 @@ A modern web platform empowering people to **exchange knowledge and skills** sea
 ---
 
 ## 👥 **Team Name**
-> 🎯 **Firsters**
+> 🎯 **Team 1236**
 
 ---
 
@@ -144,7 +144,7 @@ npm run dev
 
 ## 🌈 **Screenshots**
 
-> *(Add your beautiful UI screenshots here!)*
+> * *
 
 ---
 
@@ -169,5 +169,3 @@ Please fork the repo, make changes, and open a PR.
 ---
 
 > Made with ❤️ by **Team Firsters** ✨
-
-```
